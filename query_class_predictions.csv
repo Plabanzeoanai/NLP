@@ -1,0 +1,21 @@
+S.No.,Question,Actual Label,Label,Predicted Labels,DESC,FACT
+1,Who is Genpact's CEO ?,HUM,FACT,FACT,0.0012388968676348977,0.9987611031323651
+2,What was the diluted earnings per share for Genpact in full year 2019?,NUM,FACT,FACT,2.997038165852839e-05,0.9999700296183415
+3,What was the final verdict in Pralipsa Rout vs OUAT taking into consideration facts and circumstances of the case?,DESC,DESC,FACT,0.45321319665524584,0.5467868033447542
+4,What is the court’s’ notice number that allows for counsel to avail soft copies of order owing to covid 19 pandemic?,NUM,FACT,FACT,0.0036842290681754486,0.9963157709318246
+5,What are the components in the monthly gross salary?,DESC/ENTY,FACT,FACT,0.002068301353716495,0.9979316986462835
+6,How can one establish residency in California for DL?,DESC,DESC,FACT,0.22739187818396056,0.7726081218160394
+7,Where was the Euro 2020 held?,LOC,FACT,FACT,7.923980349766602e-05,0.9999207601965023
+8,How many minimum years of service is required for a person to be eligible to receive gratuity?,NUM,FACT,FACT,0.004079132618637016,0.995920867381363
+9,Who is CEO designate at HDFC ?,HUM,FACT,FACT,0.07815704755538566,0.9218429524446143
+10,What transactions can be termed as voucher generating transactions?,ENTY,FACT,FACT,0.3589016349971831,0.6410983650028169
+11,"In case of failed ATM, within how many days customers should be reimbursed?",NUM,FACT,FACT,0.0006782417701803878,0.9993217582298196
+12,"In Santosh Toppo vs state of odisha case, based on whose evidence the court found death to be homicidal in nature?",ENTY,FACT,FACT,0.04718296614419071,0.9528170338558093
+13,What does UNESCO stand for?,ABB,FACT,FACT,0.008035110834577308,0.9919648891654227
+14,How often should the bank personnel at counters/ desk should be rotated?,NUM,FACT,FACT,0.11264583172723919,0.8873541682727608
+15,How is the Premium Calculated?,DESC,DESC,FACT,0.12008006578738406,0.8799199342126159
+16,"In Nakula Rout vs State of Orissa case,why did P.W.1 return home without making payment?",DESC,DESC,DESC,0.9941049538981791,0.005895046101820893
+17,Why are Afro-Americans so good in athetics?,DESC,DESC,FACT,0.007284827437974761,0.9927151725620252
+18,What is the applicable currency in Germany?,ENTY,FACT,FACT,0.032846452404901805,0.9671535475950982
+19,What was the final decision in disposing of the writ application?,DESC,DESC,FACT,0.4953566425524132,0.5046433574475868
+20,What transactions can be termed as voucher generating transactions?,ENTY,FACT,FACT,0.3589016349971831,0.6410983650028169
